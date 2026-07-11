@@ -33,9 +33,12 @@ Python、Pandas、Seaborn、Matplotlib、scikit-learn
 ## 專案結構
 ```
 insurance-churn-analysis/
-├── data/
-│   └── insurance_policyholder_churn_synthetic.csv
-├── notebooks/
-│   └── 01_EDA.ipynb
-└── README.md
+│  README.md
+│  
+├─data
+│      insurance_policyholder_churn_data_dictionary.csv
+│      insurance_policyholder_churn_synthetic.csv
+│      
+└─notebooks
+        01_EDA.ipynb
 ```
