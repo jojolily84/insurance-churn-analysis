@@ -33,6 +33,7 @@ Python、Pandas、Seaborn、Matplotlib、scikit-learn
 ## 專案結構
 ```
 insurance-churn-analysis/
+│  .gitignore
 │  README.md
 │  
 ├─data
